@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Analytics Dashboard using Power BI
 📊 Overview
 This project features an interactive HR Analytics Dashboard built with Power BI. The dashboard provides a comprehensive overview of key human resources metrics at Atliq, focusing on employee demographics, attrition, and tenure. It's designed to help HR professionals and management make data-driven decisions to improve employee retention and satisfaction.
 
