@@ -2,11 +2,6 @@
 📊 Overview
 This project features an interactive HR Analytics Dashboard built with Power BI. The dashboard provides a comprehensive overview of key human resources metrics at Atliq, focusing on employee demographics, attrition, and tenure. It's designed to help HR professionals and management make data-driven decisions to improve employee retention and satisfaction.
 
-🖼️ Dashboard Preview
-A snapshot of the main dashboard page:
-
-(Note: You should replace this text with an actual screenshot of your dashboard once uploaded to GitHub.)
-
 📈 Key Metrics & Insights
 The dashboard is designed to track and analyze several critical HR indicators:
 
